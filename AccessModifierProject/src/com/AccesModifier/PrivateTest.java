@@ -6,8 +6,8 @@ public class PrivateTest {
 	//Scope :- within class only
 	//used :- before variable, before method, before Constructor
 	
-	private int i = 390;
-	private String name = "Gayatri";    //variables
+	 int i = 390;
+	 String name = "Gayatri";    //variables
 	
 	
 	private PrivateTest() {

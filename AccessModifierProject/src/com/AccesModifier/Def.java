@@ -6,7 +6,7 @@ public class Def {
 		
 		//try to accessing in Different Package
 		
-		DefaultTest d2 = new DefaltTest();
+		Def d2 = new Def();
 		
 		System.out.println(d2.a);
 		System.out.println(d2.name);
